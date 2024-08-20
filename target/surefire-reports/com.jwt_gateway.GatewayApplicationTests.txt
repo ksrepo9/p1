@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.jwt_gateway.GatewayApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.663 s -- in com.jwt_gateway.GatewayApplicationTests
